@@ -1,6 +1,6 @@
 # Genome_SSRMarker
 
-* Download [B. oleracea genome]() and [B.rapa genome]() from the public database
+* Download [B. oleracea genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_018177695.1) and [B.rapa genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_000309985.2) from the public database
 * Download [GMATA]() software- before need to check Java version and acitve perl (optional)
 
 
